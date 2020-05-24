@@ -1,0 +1,6 @@
+logs/
+.idea
+*/*/target
+*.iml
+/service/service-all/home/project/
+/home
