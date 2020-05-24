@@ -1,13 +1,13 @@
-package com.liyiqi.service;
+package com.liyiqi.serviceall;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ServiceApplication {
+public class ServiceAllApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ServiceApplication.class, args);
+        SpringApplication.run(ServiceAllApplication.class, args);
     }
 
 }

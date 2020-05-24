@@ -1,10 +1,10 @@
-package com.liyiqi.service;
+package com.liyiqi.serviceall;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ServiceApplicationTests {
+class ServiceAllApplicationTests {
 
     @Test
     void contextLoads() {
