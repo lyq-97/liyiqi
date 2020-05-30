@@ -15,5 +15,5 @@ eureka:
     healthcheck:
       enabled: true
   server:
-    enable-self-preservation: false #¹Ø±Õ×ÔÎÒ±£»¤Ä£Ê½£¬¿É¿ìËÙÉ¾³ı×¢²á
-    eviction-interval-timer-in-ms: 30000 #Ë¢ĞÂ¼ä¸ô
+    enable-self-preservation: false  #å…³é—­è‡ªæˆ‘ä¿æŠ¤æ¨¡å¼ï¼Œå¯å¿«é€Ÿåˆ é™¤æ³¨å†Œ
+    eviction-interval-timer-in-ms: 30000 #åˆ·æ–°é—´éš”
